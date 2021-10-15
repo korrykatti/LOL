@@ -28,7 +28,6 @@ def speak(audio):
 
 from io import StringIO
 
-
 print("The speaking may take time and that depends on file size and your system specs . For e.g. A pdf of 40 pages took me 25 minutes on a 1 gb pentium")
 a = input("Enter pdf file name with extenstion : \n")
 
