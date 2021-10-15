@@ -1,0 +1,3 @@
+gtts
+pyttsx3
+speech-recognition
