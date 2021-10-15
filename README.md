@@ -68,6 +68,12 @@ And Booyah! The app has started
 6) If you want to slow down or fast the speech go to ```engine.setProperty('rate', 160)``` and replace 160 with whatever wpm you want
 
 
+We now have PDF file support
+
+for that just run ```python3 pdfreader.py``` 
+NOTE : Reading and speaking the pdf files is dependent on your system specs. For a pentium with 1 gb ram it takes 25 minutes to open a 40 page pdf. also the pdf must be in same folder. Pull request will be accepted if you find a faster method
+
+
 
 
 
