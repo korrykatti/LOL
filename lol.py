@@ -1,5 +1,5 @@
 import pyttsx3
-import speech_recognition as sr
+# import speech_recognition as sr
 from gtts import gTTS
 import datetime
 
