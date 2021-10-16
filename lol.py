@@ -7,7 +7,7 @@ import datetime
 
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
-engine.setProperty('rate', 160)
+engine.setProperty('rate', 135)
 #print(voices)
 engine.setProperty('voice', voices[11].id)
 
